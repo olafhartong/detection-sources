@@ -24,7 +24,7 @@ Obviously also very benificial to develop detection content against.
 |---|---|---|---|
 |Atomic Red Team|[LINK](https://github.com/redcanaryco/atomic-red-team)|[RSS](https://github.com/redcanaryco/atomic-red-team/commits/master.atom)||
 |RTA|[LINK](https://github.com/endgameinc/rta)|[RSS](https://github.com/endgameinc/rta/commits/master.atom)||
-|Metta|[LINK(https://github.com/uber-common/metta)|[RSS(https://github.com/uber-common/metta/commits/master.atom)||
+|Metta|[LINK](https://github.com/uber-common/metta)|[RSS](https://github.com/uber-common/metta/commits/master.atom)||
 |APTSimulator|[LINK](https://github.com/NextronSystems/APTSimulator)|[RSS](https://github.com/NextronSystems/APTSimulator/commits/master.atom)||
 |Mawless|[LINK](https://github.com/n0dec/MalwLess)|[RSS](https://github.com/n0dec/MalwLess/commits/master.atom)||
 |mate|[LINK](https://github.com/fugawi/mate)|[RSS](https://github.com/fugawi/mate/commits/master.atom)|Atomic Red Team based|
