@@ -29,10 +29,10 @@ Obviously also very benificial to develop detection content against.
 |Metta|[LINK](https://github.com/uber-common/metta)|[RSS](https://github.com/uber-common/metta/commits/master.atom)||
 |APTSimulator|[LINK](https://github.com/NextronSystems/APTSimulator)|[RSS](https://github.com/NextronSystems/APTSimulator/commits/master.atom)||
 |Mawless|[LINK](https://github.com/n0dec/MalwLess)|[RSS](https://github.com/n0dec/MalwLess/commits/master.atom)||
-|mate|[LINK](https://github.com/fugawi/mate)|[RSS](https://github.com/fugawi/mate/commits/master.atom)|Atomic Red Team based|
+|mate|[LINK](https://github.com/fugawi/mate)|[RSS](https://github.com/fugawi/mate/commits/master.atom)|Atomic Red Team based testing tool|
 
 # Artifacts
 |Name|Website|RSS Link|Description|
 |---|---|---|---|
 |ForensicArtifacs|[LINK](https://github.com/ForensicArtifacts/artifacts)|[RSS](https://github.com/ForensicArtifacts/artifacts/commits/master/artifacts.atom)||
-|OSSEM|[LINK](https://github.com/Cyb3rWard0g/OSSEM/)|[LINK](https://github.com/Cyb3rWard0g/OSSEM/commits/master.atom)||
+|OSSEM|[LINK](https://github.com/Cyb3rWard0g/OSSEM/)|[LINK](https://github.com/Cyb3rWard0g/OSSEM/commits/master.atom)|Open Source Security Events Metadata (OSSEM)|
