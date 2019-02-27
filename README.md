@@ -9,13 +9,15 @@ Contributions are most welcome!
 # Detection rules/logic/hypotheses/analytics/etc
 |Name|Website|RSS Link|Description|
 |---|---|---|---|
-|Sigma|[LINK](https://github.com/Neo23x0/sigma/)|[RSS](https://github.com/Neo23x0/sigma/commits/master.atom)|   |
+|Sigma|[LINK](https://github.com/Neo23x0/sigma/)|[RSS](https://github.com/Neo23x0/sigma/commits/master.atom)|Great universal markup language to define logic, generated output for most SIEM/log management tools|
 |Atomic Threat Coverage|[LINK](https://github.com/krakow2600/atomic-threat-coverage)|[RSS](https://github.com/krakow2600/atomic-threat-coverage/commits/master.atom)|   |
 |TALR|[LINK](https://github.com/SecurityRiskAdvisors/TALR)|[RSS](https://github.com/SecurityRiskAdvisors/TALR/commits/master.atom)|   |
 |Atomic Blue|[LINK](https://eqllib.readthedocs.io/en/latest/atomicblue.html)|[RSS](https://github.com/endgameinc/eqllib/tree/master/eqllib/analytics/commits/master.atom)| |
 |Defender ATP Queries|[LINK](https://github.com/Microsoft/WindowsDefenderATP-Hunting-Queries)|[RSS](https://github.com/Microsoft/WindowsDefenderATP-Hunting-Queries/commits/master.atom)||
 |CAR|[LINK](https://car.mitre.org)|[RSS](https://github.com/mitre-attack/car/commits/master/docs/analytics.atom)||
 |Threat Hunting Playbook|[LINK](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)|[RSS](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/commits/master.atom)||
+|Sysmon-Modular|[LINK](https://github.com/olafhartong/sysmon-modular)|[RSS](https://github.com/olafhartong/sysmon-modular/commits/master.atom)||
+|ThreatHunting app for Splunk|[LINK](https://github.com/olafhartong/sysmon-modular)|[RSS](https://github.com/olafhartong/ThreatHunting/commits/master/default.atom)|The saved searches could be reused cross platform|
 
 # Detection Testing content
 Obviously also very benificial to develop detection content against.
