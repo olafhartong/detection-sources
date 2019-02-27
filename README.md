@@ -35,4 +35,5 @@ Obviously also very benificial to develop detection content against.
 |Name|Website|RSS Link|Description|
 |---|---|---|---|
 |ForensicArtifacs|[LINK](https://github.com/ForensicArtifacts/artifacts)|[RSS](https://github.com/ForensicArtifacts/artifacts/commits/master/artifacts.atom)||
-|OSSEM|[LINK](https://github.com/Cyb3rWard0g/OSSEM/)|[LINK](https://github.com/Cyb3rWard0g/OSSEM/commits/master.atom)|Open Source Security Events Metadata (OSSEM)|
+|OSSEM|[LINK](https://github.com/Cyb3rWard0g/OSSEM/)|[RSS](https://github.com/Cyb3rWard0g/OSSEM/commits/master.atom)|Open Source Security Events Metadata (OSSEM)|
+|DFIR-Toolset|[LINK](https://github.com/marcurdy/dfir-toolset)|[RSS]([LINK](https://github.com/marcurdy/dfir-toolset/commits/master.atom))||
