@@ -18,6 +18,7 @@ Contributions are most welcome!
 |Threat Hunters Playbook|[LINK](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)|[RSS](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook/commits/master.atom)|A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.|
 |Sysmon-Modular|[LINK](https://github.com/olafhartong/sysmon-modular)|[RSS](https://github.com/olafhartong/sysmon-modular/commits/master.atom)|A modular sysmon configuration respository mapped to MITRE ATT&CK|
 |ThreatHunting app for Splunk|[LINK](https://github.com/olafhartong/sysmon-modular)|[RSS](https://github.com/olafhartong/ThreatHunting/commits/master/default.atom)|The saved searches could be reused cross platform|
+|DetectionLogics|[LINK](https://github.com/darkquasar/detection-stack)|[RSS](https://github.com/darkquasar/detection-stack/commits/master.atom)|Repo for multiformat signatures for threat detection|
 
 # Detection Testing content
 Obviously also very benificial to develop detection content against.
@@ -30,6 +31,7 @@ Obviously also very benificial to develop detection content against.
 |APTSimulator|[LINK](https://github.com/NextronSystems/APTSimulator)|[RSS](https://github.com/NextronSystems/APTSimulator/commits/master.atom)||
 |Mawless|[LINK](https://github.com/n0dec/MalwLess)|[RSS](https://github.com/n0dec/MalwLess/commits/master.atom)||
 |mate|[LINK](https://github.com/fugawi/mate)|[RSS](https://github.com/fugawi/mate/commits/master.atom)|Atomic Red Team based testing tool|
+|CALDERA|[LINK](https://github.com/mitre/caldera)|[RSS](https://github.com/mitre/caldera/commits/master.atom)|CALDERA is an automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks by MITRE|
 
 # Artifacts
 |Name|Website|RSS Link|Description|
